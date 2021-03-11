@@ -1,0 +1,12 @@
+/* Color palette https://coolors.co/ffeedb-e63946-6a8d73-000807-496ddb */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body, button, input {
+    margin: 0 auto;
+    font-family: 'Lobster', cursive;
+    color: #000807;
+}
+
+body{
+    width: 100%;
+}
